@@ -1,0 +1,39 @@
+37
+max
+min
+remove 100
+inprint
+insert 492
+search 100
+insert 520
+insert 648
+insert 500
+insert 102
+insert 529
+insert 431
+insert 706
+insert 769
+insert 153
+insert 517
+insert 504
+insert 451
+insert 794
+insert 906
+inprint
+remove 520
+inprint
+remove 500
+inprint
+remove 504
+inprint
+insert 0
+inprint
+insert -45
+insert -12541
+insert -12
+inprint
+remove -12
+inprint
+min
+max
+search -12541

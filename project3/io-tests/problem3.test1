@@ -1,0 +1,10 @@
+9
+insert 10
+remove 5
+remove 5
+remove 5
+remove 10
+search 10
+min
+postprint
+remove 5
