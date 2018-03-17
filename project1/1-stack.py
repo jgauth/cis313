@@ -1,3 +1,6 @@
+# Author: John Gauthier
+# Description: Stack data structure implemented with a doubly linked list
+
 from double_ll import DoubleLL
 import sys
 from copy import copy

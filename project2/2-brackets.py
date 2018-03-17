@@ -1,3 +1,6 @@
+# Author: John Gauthier
+# Description: Checks whether a string of brackets is well formed
+
 import sys
 
 def check_brackets(s):

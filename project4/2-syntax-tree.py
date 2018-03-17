@@ -1,3 +1,7 @@
+# Author: John Gauthier
+# Description: Builds a syntax tree, creates a fully parenthesized mathematical expression, and evaluates the xyntax tree.
+# Sources: Code for building the tree came from project starter code
+
 import sys
 
 class STNode:

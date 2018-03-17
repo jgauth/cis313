@@ -1,7 +1,11 @@
+# Author: John Gauthier
+# Description: Minheap data structure
+
+# Collaborated with Austin Long
+
 import sys
 
 class MinHeap(object):
-    #collaborated with Austin Long
 
     def __init__(self):
         self._size = 0 # keep track of size because array starts at 1,so len(array) returns size + 1

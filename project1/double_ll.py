@@ -1,3 +1,6 @@
+# Author: John Gauthier
+# Description: Doubly linked list  
+
 class DoubleLL(object):
     class LLNode(object):
         def __init__(self, data=None):

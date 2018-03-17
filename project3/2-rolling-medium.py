@@ -1,8 +1,11 @@
+# Author: John Gauthier
+# Description: Calculate the rolling median of a string of integers, one int at a time.
+
+# Collaborated with Austin Long
+
 from minheap import *
 from maxheap import *
 import sys
-
-#collaborated with Austin Long
 
 def driver():
 

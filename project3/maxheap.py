@@ -1,7 +1,9 @@
+# Author: John Gauthier
+# Source: Adjusted code from my minheap.py in project2
+
 import sys
 
 class MaxHeap(object):
-    #source: adjusted code from my minheap.py from project 2
 
     def __init__(self):
         self._size = 0 # keep track of size because array starts at 1,so len(array) returns size + 1

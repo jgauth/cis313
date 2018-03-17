@@ -1,3 +1,6 @@
+# Author: John Gauthier
+# Description: Red-black tree data structure
+
 import sys
 
 class RBTree(object):

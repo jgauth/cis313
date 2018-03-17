@@ -1,3 +1,7 @@
+# Author: John Gauthier
+# Description: In a BST, calculates the value of the 'best path' from the root to a leaf node.
+# Best path is defined to be the path with the highest occurrence of the digit 5.
+
 import sys
 
 class BST(object):

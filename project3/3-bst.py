@@ -1,3 +1,6 @@
+# Author: John Gauthier
+# Description: Binary search tree data structure
+
 import sys
 
 class BST(object):

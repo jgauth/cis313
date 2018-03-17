@@ -1,8 +1,12 @@
+# Author: John Gauthier
+# Description: Process a batch of http "requests", serving the requests with the lowest service time first. 
+# Additionally there are two tiers of service: A and B. Complete all requests in A before moving to B.
+
+# Collaborated with Austin Long
+
 import sys
 import pdb
 from minheap import MinHeap
-
-#collaborated with Austin Long
 
 def driver():
 

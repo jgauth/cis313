@@ -1,3 +1,6 @@
+# Author: John Gauthier
+# Description: Queue data structure implemented with doubly linked list
+
 from double_ll import DoubleLL
 import sys
 from copy import copy

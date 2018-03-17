@@ -1,7 +1,9 @@
+# Author: John Gauthier
+# Source: My minheap.py from project2
+
 import sys
 
 class MinHeap(object):
-    #source: my minheap.py from project 2
 
     def __init__(self):
         self._size = 0 # keep track of size because array starts at 1,so len(array) returns size + 1

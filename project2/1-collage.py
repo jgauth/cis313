@@ -1,3 +1,6 @@
+# Author: John Gauthier
+# Description: Given a "magazine" of words, checks if a "collage" can be made for a given set of words. Words can only be used once.
+
 import sys
 
 def check_collage(num_mag, num_note, d_mag, l_note):
